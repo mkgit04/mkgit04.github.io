@@ -1,8 +1,7 @@
-User-agent: Googlebot
+User-agent: *
 Allow: /
 
-User-agent: Bingbot
-Allow: /
+Sitemap: https://mkgit04.github.io/sitemap.xml
 
 User-agent: Twitterbot
 Allow: /
